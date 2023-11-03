@@ -34,6 +34,6 @@ public class NumberSumInArray {
                         return sum; // Condition 1: If the sum is positive, return the sum
                     }
                 }
-            }
         }
+}
 
